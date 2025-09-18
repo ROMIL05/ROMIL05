@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://github.com/ROMIL05/ROMIL05/blob/main/coding.jpg?raw=true" style="max-width: 15%; max-height: 15%; border-radius: 12px;"/>
+  <img src="https://github.com/ROMIL05/ROMIL05/blob/main/coding.jpg?raw=true" 
+       alt="Coding Image"
+       style="width: 15%; max-width: 150px; height: auto; border-radius: 12px;"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey Coders!+I'm+Romil+Patel%3B+Full+Stack+Developer+|+Programmer%3B+eat%28%29+sleep%28%29+code%28%29+repeat%28%29" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey Coders!+I+am+Romil+Patel%3B+Full+Stack+Developer+|+Programmer%3B+eat%28%29+sleep%28%29+code%28%29+repeat%28%29" alt="Typing Animation">
 </p>
 
 ---
