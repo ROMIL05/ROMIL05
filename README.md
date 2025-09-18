@@ -115,7 +115,7 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
     <img src="https://github-readme-stats.vercel.app/api?username=ROMIL05&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
   </a>
   <a href="https://github.com/ROMIL05">
-    <img src="https://streak-stats.demolab.com?user=ROMIL05&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROMIL05&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
   </a>
   <a href="https://github.com/ROMIL05">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROMIL05&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; height: auto;"/>
