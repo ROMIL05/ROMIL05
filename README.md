@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="typing-animation.svg" alt="Typing Animation">
+  <img src="typing-animation.svg" alt="Typing Animation" style="margin: 0px 20%;">
 </p>
 
 ---
@@ -49,9 +49,9 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
 
 <p align="center">
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%; text-align: left;">
-    <tr>
-      <td width="50%" valign="top">
-         <h3>💻 SkillScript</h3>
+    <tr style="display: flex; flex-wrap: wrap;">
+      <td style="flex: 1 1 50%; min-width: 300px; box-sizing: border-box;" valign="top">
+        <h3>💻 SkillScript</h3>
         <p><em>React | Docker | NodeJs | MongoDB | August 2025 - Present</em></p>
         <ul>
           <li>Secure, customizable <b>code-runner platform</b> for online exams & contests.</li>
@@ -59,7 +59,7 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
           <li><a href="https://code-runner-frontend.onrender.com/">coderunnerfrontend.onrender.com</a></li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td style="flex: 1 1 50%; min-width: 300px; box-sizing: border-box;" valign="top">
         <h3>🌐 Portfolio</h3>
         <p><em>React | Three.js</em></p>
         <ul>
@@ -69,8 +69,8 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
         </ul>
       </td>
     </tr>
-    <tr>
-      <td width="50%" valign="top">
+    <tr style="display: flex; flex-wrap: wrap;">
+      <td style="flex: 1 1 50%; min-width: 300px; box-sizing: border-box;" valign="top">
         <h3>🔗 Smart Subsidy Track</h3>
         <p><em>React | Solidity | NodeJs | MongoDB | Aug 29–31, 2025</em></p>
         <ul>
@@ -78,7 +78,7 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
           <li>Automated fund tracking with security-first architecture.</li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td style="flex: 1 1 50%; min-width: 300px; box-sizing: border-box;" valign="top">
         <h3>📱 Grievance Redressal Portal & App</h3>
         <p><em>React | React Native | Python | NodeJs | MongoDB | March 2025 - April 2025</em></p>
         <ul>
@@ -87,8 +87,8 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
         </ul>
       </td>
     </tr>
-    <tr>
-      <td width="50%" valign="top">
+    <tr style="display: flex; flex-wrap: wrap;">
+      <td style="flex: 1 1 50%; min-width: 300px; box-sizing: border-box;" valign="top">
         <h3>❤️ HealthCare Platform</h3>
         <p><em>Bootstrap | NodeJs | MongoDB | January 2025 - February 2025</em></p>
         <ul>
@@ -96,7 +96,7 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
           <li>Suggested hospitals + provided <b>interactive health education</b>.</li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td style="flex: 1 1 50%; min-width: 300px; box-sizing: border-box;" valign="top">
         <h3>🎓 PMSSS Portal</h3>
         <p><em>Bootstrap | PHP | NodeJs | MongoDB | September 2024 - December 2024</em></p>
         <ul>
