@@ -16,7 +16,7 @@ Versatile **Full Stack Developer** with a strong foundation in building scalable
 Skilled in **Problem Solving**, **AI/ML**, and building innovative solutions through continuous learning.<br>
 Currently diving deep into **AI/ML, Web3, and other trending technologies** to push my boundaries of technology.
 
-**📄** [View Resume](https://drive.google.com/file/d/1geQbVFWFzal_citvf51KrrxnaD4SXFir/view)
+**📄** [View Resume](https://drive.google.com/file/d/1m-O9C3UFC42xLashqo3e0r1x0xk9Muzq/view?usp=sharing)
 
 ---
 
