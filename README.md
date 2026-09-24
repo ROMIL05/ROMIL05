@@ -56,7 +56,7 @@ Currently diving deep into **AI/ML, Web3, and other trending technologies** to p
         <ul>
           <li>Secure, customizable <b>code-runner platform</b> for online exams & contests.</li>
           <li>Replaced traditional lab manuals with automated evaluation & real-time analytics.</li>
-          <li><a href="https://code-runner-frontend.onrender.com/">coderunnerfrontend.onrender.com</a></li>
+          <li><a href="https://skillscript.in/">coderunnerfrontend.onrender.com</a></li>
         </ul>
       </td>
       <td style="flex: 1 1 50%; min-width: 300px; box-sizing: border-box;" valign="top">
